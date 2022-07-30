@@ -1,0 +1,15 @@
+.showerButton {
+    border: none;
+    grid-area: auto/auto/auto/auto;
+    background-color: rgba(179, 178, 178, 0.884);
+    height: 15%;
+    cursor: pointer;
+}
+
+.showerButton:hover {
+    background-color: red !important;
+}
+
+.showerButton.active {
+    background-color: blue;
+}
