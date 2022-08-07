@@ -57,7 +57,7 @@
 
 .current {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: flex-end;
     transform: scale(1.105);
     border-radius: 50px;
